@@ -1,4 +1,0 @@
-drupscan
-========
-
-Drupal Vulnerability Scanner
